@@ -8,7 +8,7 @@ tags: [coding]
 comments: true
 ---
 
-## What I have learnt on Day 1
+## Day 1 - `print()`,`input()`, `f("")`, string concatenation, varibles
 
 - `print()`function
 
