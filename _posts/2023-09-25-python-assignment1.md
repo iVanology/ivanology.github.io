@@ -5,6 +5,7 @@ date: 2023-09-25 21:05:55 +0800
 mermaid: true
 categories: [UAS, Python]
 tags: [coding]
+comments: true
 ---
 
 # What I have learnt on Day 1
