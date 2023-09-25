@@ -81,8 +81,8 @@ avatar: https://ik.imagekit.io/fprbfuabv/logo.pic.jpg?updatedAt=1695640431557
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments: disqus
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+comments:
+  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: https-ivanology-github-io # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
