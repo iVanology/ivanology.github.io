@@ -81,7 +81,7 @@ avatar: https://ik.imagekit.io/fprbfuabv/logo.pic.jpg?updatedAt=1695640431557
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:disqus
+comments: disqus
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
