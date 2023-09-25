@@ -8,7 +8,9 @@ tags: [coding]
 comments: true
 ---
 
-## Day 1 - `print()`,`input()`, `f("")`, string concatenation, varibles
+## Day 1
+
+#### covers the following:
 
 - `print()`function
 
@@ -20,7 +22,9 @@ comments: true
 
 - Python Variables
 
-- Naming Variables: make your code readable
+- Make variables readable
+
+###
 
 ````
 
@@ -103,4 +107,5 @@ kilograms = int(user_total_grams // 1000)
 grams = user_total_grams % 1000
 
 print(f"The weight in modern units: \n{kilograms} kilograms and {grams:.2f} grams.")
+```
 ````
