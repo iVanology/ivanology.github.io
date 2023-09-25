@@ -8,14 +8,21 @@ tags: [coding]
 comments: true
 ---
 
-# What I have learnt on Day 1
+## What I have learnt on Day 1
 
 - `print()`function
+
 - `input()` function
+
 - string manipulation
+
   - f string: `print(f"Hello, {user_name}!\n")`
+
 - Python Variables
-  - Naming Variables: make your code readable
+
+- Naming Variables: make your code readable
+
+````
 
 <br>
 
@@ -96,4 +103,4 @@ kilograms = int(user_total_grams // 1000)
 grams = user_total_grams % 1000
 
 print(f"The weight in modern units: \n{kilograms} kilograms and {grams:.2f} grams.")
-```
+````
