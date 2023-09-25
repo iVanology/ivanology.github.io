@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python | Assignment 1
-date: 2023-09-25 20:35:00 +0800
+date: 2023-09-25 21:06:00 +0800
 mermaid: true
 categories: [UAS, Python]
 tags: [coding]
