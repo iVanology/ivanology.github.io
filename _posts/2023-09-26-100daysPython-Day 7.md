@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Day 7 Functions with input | Arguments vs. Parameters
-date: 26-09-2023  16:33:20  +0800
+date: 2023-09-26 16:33:20  +0800
 mermaid: true
 categories: [100 Days of Python, Day7]
 tags: [python]
+comments: true
 ---
 
 ## Functions with input
