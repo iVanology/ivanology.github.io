@@ -32,7 +32,7 @@ In the example above, `name` is a parameter (the name of the data) in this funct
 # Function with more than 1 input
 def greet_with(name, location):
     print(f"Hello, {name}. Do you from {location}?")
-greet_with("ivan", "Guangzhou")
+greet_with("ivan", "Rome")
 ```
 
 {: .prompt-info}
@@ -43,8 +43,8 @@ greet_with("ivan", "Guangzhou")
 >
 > ```python
 > # Think about what will be printed?
-> greet_with("ivan", "Guangzhou")
-> greet_with("Guangzhou", "ivan")
+> greet_with("ivan", "Rome")
+> greet_with("Rome", "ivan")
 > ```
 
 ### Keyword argument
@@ -54,7 +54,7 @@ If you want to aviod the problem above, Keyword argument is in place
 ```python
 def greet_with(name, location):
    print(f"Hello, {name}. Do you from {location}?")
-greet_with(location="Guangzhou", name="ivan")
+greet_with(location="Rome", name="ivan")
 ```
 
 ##### Pro and Con of Keyword argument
