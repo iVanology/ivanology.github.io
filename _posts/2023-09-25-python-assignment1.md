@@ -4,7 +4,7 @@ title: Python | Assignment 1
 date: 2023-09-25 21:05:55 +0800
 mermaid: true
 categories: [UAS, Python]
-tags: [coding]
+tags: [python]
 comments: true
 ---
 
