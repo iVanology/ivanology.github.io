@@ -8,7 +8,7 @@ tags: [python]
 comments: true
 ---
 
-## Functions with input
+## Functions with input tested
 
 ```python
 #Simple Function
