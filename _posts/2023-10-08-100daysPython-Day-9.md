@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Day 9 Dictionaries & Nesting
-date: 2023-10-0818:43:47  +0800
+date: 2023-10-08 18:43:47  +0800
 mermaid: true
 categories: [100 Days of Python, Day9]
 tags: [python]
 comments: true
 ---
 
-## [[Dictionary]]
+## Dictionary
 
 ```python
 {KEY: VALUE}
@@ -94,7 +94,7 @@ Loop
 The action of doing something over and over again.
 ```
 
-## [[Nesting]]
+## Nesting
 
 ### multiple key-value pairs
 
