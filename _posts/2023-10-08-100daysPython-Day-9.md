@@ -30,14 +30,14 @@ programming_dictionary = {
 # NB. Every subsequent entry of a dictionary is indented by 1 indent (2 spaces).
 ```
 
-### retrieving items from dictionary
+### Retrieving items from dictionary
 
 ```python
 print(programming_dictionary["Bug"])
 
 ```
 
-### adding new items to dictionary
+### Adding new items to dictionary
 
 ```python
 programming_dictionary["testing"] = "testing message"
@@ -84,7 +84,7 @@ for key in programming_dictionary:
 
 ## Nesting
 
-### multiple key-value pairs
+### Multiple key-value pairs
 
 ```python
 {
