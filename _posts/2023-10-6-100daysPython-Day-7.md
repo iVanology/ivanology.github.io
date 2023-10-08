@@ -3,16 +3,17 @@ layout: post
 title: Day 7  Functions with input | Arguments vs. Parameters
 date: 2023-10-06 18:43:47  +0800
 mermaid: true
-categories: [100 Days of Python, Day7]
+categories: [100 Days of Python, Day 7]
 tags: [python]
 comments: true
 ---
 
-> [!Ci] Today's Goal: Cipher Program (Caeser Cipher)
-> **Learn:**
->
-> - Functions with Input
-> - Arguments vs Parameters
+# Today's Goal: Cipher Program (Caeser Cipher)
+
+Today's content:
+
+- Functions with Input
+- Arguments vs. Parameters
 
 ```python
 # Simple Function
@@ -24,16 +25,17 @@ greet()
 def greet(name):
 	print(f"How are you {name}")
 greet("iVan")
--> How are you iVan?
+# example output
+# How are you iVan?
 
 #NB. `name` is a parameter (the name of the data) in this function; while `ivan` is a argument that is passed over to this function
 
 # Positional vs. Keyword Arguments
 # Function with more than 1 input
 def greet_with(name, location):
-	print(f"Hello, {name}. Do you from {location}?") greet_with("ivan", "Guangzhou")
-# example out
--> Hello, ivan. Do you from Guangzhou?
+	print(f"Hello, {name}. Do you from {location}?") greet_with("ivan", "Roman")
+# example output
+# Hello, ivan. Do you from Roman?
 
 
 # Code Challenge 1 - Paint Area Calculator

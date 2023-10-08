@@ -3,7 +3,7 @@ layout: post
 title: Day 9 Dictionaries & Nesting
 date: 2023-10-08 18:43:47  +0800
 mermaid: true
-categories: [100 Days of Python, Day9]
+categories: [100 Days of Python, Day 9]
 tags: [python]
 comments: true
 ---
