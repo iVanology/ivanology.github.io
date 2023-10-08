@@ -43,14 +43,14 @@ print(programming_dictionary["Bug"])
 programming_dictionary["testing"] = "testing message"
 print(programming_dictionary)
 
--->
-programming_dictionary = {"Bug": "An error in a programme that prevents the program from running as expected.", "Function": "A piece of code that you can easily call over and over again", "Loop": "The action of doing something over and over again.", "testing":"testing message"}
+# Example outoput
+# programming_dictionary = {"Bug": "An error in a programme that prevents the program from running as expected.", "Function": "A piece of code that you can easily call over and over again", "Loop": "The action of doing something over and over again.", "testing":"testing message"}
 ```
 
 ### Create an empty dictionary
 
 ```python
- empty_dictionary = {}
+empty_dictionary = {}
 ```
 
 ### Wipe an existing dictionary
@@ -75,30 +75,18 @@ print(programming_dictionary)
 for thing in programming_dictionary:
   print(thing)
 
-->
-Bug
-Function
-Loop
 
 ### print out `key` and `value` at the same time
 for key in programming_dictionary:
   print(key)
   print(programming_dictionary[key])
-
-->
-Bug
-A moth in your computer.
-Function
-A piece of code that you can easily call over and over again.
-Loop
-The action of doing something over and over again.
 ```
 
 ## Nesting
 
 ### multiple key-value pairs
 
-```pyton
+```python
 {
   key: [List],
   key2: {Dict},
@@ -114,7 +102,7 @@ capitals = {
 
 ### Nesting a List in a Dictionary
 
-```pyton
+```python
 travel_log = {
   "France": ["Paris", "Lille", "Dijon"],
   "Germany": ["Berlin", "Hamburg", "Stuttgart"],
@@ -208,7 +196,6 @@ print(art.logo)
 bids={}
 bidding_finished = False
 
-
 def find_highest_bidder(bidding_record):
     highest_bid = 0
     winner = ""
@@ -294,7 +281,7 @@ highest_bidder = max(bids, key=bids.get)
 print(f"The winner is {highest_bidder} with a bid of ${bids[highest_bidder]}")
 ```
 
-## About `max()` function
+## About _max()_ function
 
 1. **For a simple dictionary** where you want to find the key with the maximum value:
 
