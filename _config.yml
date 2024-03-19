@@ -75,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://ik.imagekit.io/fprbfuabv/logo.pic.jpg?updatedAt=1695640431557
+avatar: https://ik.imagekit.io/morningstarL/logo%20transparent.jpg?updatedAt=1710820741719
 
 # boolean type, the global switch for TOC in posts.
 toc: true
