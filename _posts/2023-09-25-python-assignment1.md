@@ -6,6 +6,7 @@ mermaid: true
 categories: [UAS, Python]
 tags: [python]
 comments: true
+published: false
 ---
 
 # Day 1
