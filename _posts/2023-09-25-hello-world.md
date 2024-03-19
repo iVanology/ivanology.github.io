@@ -10,5 +10,3 @@ tags: [test]
 # Welcome
 
 This is my blog post. I'll be sharing my thoughts, experiences, and passions with you.
-test
-test
