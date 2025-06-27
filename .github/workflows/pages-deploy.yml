@@ -52,7 +52,7 @@ jobs:
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3 #change to 3
-          path: ./_site
+          path: ./_site # changes
 
   deploy:
     environment:
